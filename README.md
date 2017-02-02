@@ -16,6 +16,7 @@ You are in the same app domain, so anything that relies on assembly scanning or 
 Convention-based IoC registrations or MVC/Web API controller discovery are typical examples.
 
 In this sample, you can see this effect at play here:
+
 http://localhost:59753/api1cohostroot/api1root/api2
 
 http://localhost:59753/api2cohostroot/api2root/api1
